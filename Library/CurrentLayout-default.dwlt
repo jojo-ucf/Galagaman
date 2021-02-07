@@ -76,7 +76,7 @@ MonoBehaviour:
   m_LoadedToolbars:
   - {fileID: 17}
   m_MainToolbar: {fileID: 17}
-  m_LastLoadedLayoutName: 2 by 3
+  m_LastLoadedLayoutName: 
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -103,7 +103,7 @@ MonoBehaviour:
   m_MinSize: {x: 911, y: 442}
   m_MaxSize: {x: 22006, y: 10021}
   vertical: 0
-  controlID: 3149
+  controlID: 60
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -149,7 +149,7 @@ MonoBehaviour:
   m_MinSize: {x: 201, y: 442}
   m_MaxSize: {x: 4001, y: 8042}
   vertical: 1
-  controlID: 3150
+  controlID: 93
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -308,23 +308,23 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: de6c0000
+      m_SelectedIDs: 96300000
       m_LastClickedID: 0
-      m_ExpandedIDs: 224dffff2e4effff3e4effff4e4effff8c53ffff40a7ffff14e3ffff88e7ffff5cfbffffe23b00002c3c0000
+      m_ExpandedIDs: 5cfbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: EnemySpawners
-        m_OriginalName: EnemySpawners
+        m_Name: 
+        m_OriginalName: 
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: -22720
+        m_UserData: 0
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 0
+        m_OriginalEventType: 11
         m_IsRenamingFilename: 0
         m_ClientGUIView: {fileID: 7}
       m_SearchString: 
@@ -422,9 +422,9 @@ MonoBehaviour:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 8a680000
-    m_LastClickedID: 26762
-    m_ExpandedIDs: 00000000fc3c0000fe3c0000143d000000ca9a3b
+    m_SelectedIDs: c03e0000
+    m_LastClickedID: 16064
+    m_ExpandedIDs: 00000000a03e0000a23e0000aa3e000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -452,7 +452,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000fc3c0000fe3c000000ca9a3b
+    m_ExpandedIDs: 00000000a03e0000a23e0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -635,7 +635,7 @@ MonoBehaviour:
   m_Position:
     m_Target: {x: 14.30302, y: 16.180618, z: -343.58536}
     speed: 2
-    m_Value: {x: 14.409845, y: 16.152376, z: -343.50937}
+    m_Value: {x: 14.30302, y: 16.180618, z: -343.58536}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -688,7 +688,7 @@ MonoBehaviour:
   m_Size:
     m_Target: 17.650259
     speed: 2
-    m_Value: 16.8902
+    m_Value: 17.650259
   m_Ortho:
     m_Target: 1
     speed: 2
